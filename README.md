@@ -1,9 +1,10 @@
 # My Calculator
 
-A new Flutter project, for 12 hours mobile app development at sohag university.
+![Icon](./pics/icon.png)
+
+A new Flutter project, for 12 hours mobile app development tranining at sohag university.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project.
+This project is a starting point for a flutter application.
+![Demo](./pics/demo.png)
