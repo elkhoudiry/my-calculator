@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimaryBlue">#1565C0</color>-->
+    <color name="colorPrimaryBlue">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorPrimary">@color/colorPrimaryBlue</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F62A00</color>
+    <color name="colorBackground">#404040</color>
+    <color name="colorOnPrimary">@color/colorWhite</color>
+    <color name="colorOnBackground">@color/colorWhite</color>
+    <color name="txtColorOnCard">#000000</color>
+</resources>
